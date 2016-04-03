@@ -30,11 +30,10 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="number"
+        android:inputType="numberDecimal"
         android:ems="10"
         android:id="@+id/pricemeal"
         android:onClick="getprice"
-        android:text=""
         android:hint="@string/getmealprice"
         android:layout_marginTop="33dp" />
 
