@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="nine">9%</string>
+    <string name="twelve">12%</string>
+    <string name="fifteen">15%</string>
+    <string name="eighteen">18%</string>
+    <string name="getmealprice">Input price of meal here</string>
+    <string name="description">This application will help you decide how much you should pay as a gratuity for a meal you just had!</string>
+    <string name="getpricedescription">How Much Should You Pay?</string>
+    <string name="resulttip">Tip Amount: $%.2f</string>
+    <string name="resulttotal">Total Amount : $%.2f</string>
+
+</resources>
